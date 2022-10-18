@@ -1,0 +1,41 @@
+html {
+    background-color: #E9ECEF;
+}
+.navbar {
+    color: #e9ecef;
+    font-family: 'Pangolin', cursive;
+    
+}
+
+.row {
+    font-family: 'Pangolin', cursive;
+    background-color: #E9ECEF;
+}
+.jumbotron {
+    font-family: 'Pangolin', cursive;
+    background-color: #E9ECEF;
+    
+    
+}
+
+.btn-outline-warning {
+    color: #e9ecef;
+    border-color: #e9ecef;
+}
+.container {
+    width: 100%;
+    font-family: 'Pangolin', cursive;
+    background-color: #E9ECEF;
+    
+
+}
+
+.card {
+    height: 450px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    
+}
+
+
+
